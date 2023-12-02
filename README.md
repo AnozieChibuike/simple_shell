@@ -4,7 +4,6 @@
 
 <p align="center">
    📄 🚀 👌 🧑‍💻
-   ![Alt text](image.png)
 </p>
 
 <p align="center">
