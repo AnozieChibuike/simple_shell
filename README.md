@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-   📄 🚀
+   📄 🚀 👌 🧑‍💻
+   ![Alt text](image.png)
 </p>
 
 <p align="center">
@@ -21,7 +22,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2022 by [**Anozie Chibuike**](https://github.com/AnozieChibuike) and [**Bupe Mwansa**](https://github.com/ProfessorMB21) </br>
+Copyright ©️ 2023 by [**Anozie Chibuike**](https://github.com/AnozieChibuike) and [**Bupe Mwansa**](https://github.com/ProfessorMB21) </br>
 All rights reserved
 
  ## Description :
